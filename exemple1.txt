@@ -1,2 +1,4 @@
-Exemple 1
-Exemple 2 3
+git add exemple2.txt
+git reset HEAD exemple2.txt
+
+
